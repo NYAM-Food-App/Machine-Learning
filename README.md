@@ -1,2 +1,2 @@
-# NYAM
+# Machine Learning
 Description
