@@ -1,4 +1,3 @@
 __pycache__/
-*.png
-*.jpg
-*.jpeg
+dataset_split/
+processed_dataset/
