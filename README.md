@@ -1,9 +1,7 @@
-# Machine Learning
+# 🤖Machine Learning🤖
 
 ## 📚 Developers
-* (ML) Fanny Rorencia Ribowo - Universitas Surabaya
-* (ML) Janet Deby Marlien Manoach - Universitas Surabaya
-* (ML) Theophilus - Institut Informatika Indonesia Surabaya
+![Developers Profile](assets\developers.png)
 
 
 ## 📖 Table Of Content
@@ -63,10 +61,14 @@
 │        ├─ayam0.jpg
 │        └─...
 │
-└─csv
-    ├─bmi_validation.csv
-    ├─bmi_train.csv
-    └─bmi.csv
+├─csv
+│  ├─bmi_validation.csv
+│  ├─bmi_train.csv
+│  └─bmi.csv
+│
+└─assets
+   ├─developers.png
+   └─...
 </pre>
 
 ## 🏗️ Project Structure
@@ -78,6 +80,7 @@
 - **`processed_dataset/`**: Preprocessed datasets grouped by class (e.g., wortel, udang).
 - **`dataset/`**: Original dataset with train, test, and validation splits that through image scraping from Google Images.
 - **`csv/`**: CSV files containing BMI-related data for training and validation from kaggle.
+- **`assets/`**: Image and other asset files.
 
 ## 💻 Installation
 ### 1. Clone The Repositories
