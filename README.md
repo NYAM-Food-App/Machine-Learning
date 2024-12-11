@@ -1,7 +1,7 @@
 # 🤖Machine Learning🤖
 
 ## 📚 Developers
-![Developers Profile](assets\developers.png)
+![Developers Profile](assets/developers.png)
 
 
 ## 📖 Table Of Content
