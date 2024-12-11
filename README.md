@@ -5,7 +5,7 @@
 
 ---
 
-## 📒 Summary
+## 📌 Summary
 We developed two machine learning models using TensorFlow for our application:
 
 1. **Image Classification Model:** Utilizes the MobileNetV2 architecture to identify ingredients from images, categorized into 17 classes.
@@ -23,7 +23,7 @@ Both models are saved in `.keras` format for deployment and predictions on new d
 
 ---
 # 📖 Table Of Content
-- [📒 Summary](#📒-summary)
+- [📌 Summary](#📌-summary)
 - [📚 Developers](#📚-developers)
 - [📂 Directory](#📂-directory)
 - [🏗️ Project Structure](#️🏗️-project-structure)
