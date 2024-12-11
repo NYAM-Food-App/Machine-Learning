@@ -78,7 +78,8 @@
 - **`bmi_model-accuracy_0.90-loss_0.26-val_accuracy_0.91-val_loss_0.23.keras`**: Pre-trained BMI prediction model.
 - **`saved_models_v3_image_2/`**: Checkpoints for the image classification model.
 - **`processed_dataset/`**: Preprocessed datasets grouped by class (e.g., wortel, udang).
-- **`dataset/`**: Original dataset with train, test, and validation splits that through image scraping from Google Images.
+- **`dataset_split/`**: Splitted dataset to train, test, and validation from dataset directory.
+- **`dataset/`**: Original dataset through image scraping from Google Images.
 - **`csv/`**: CSV files containing BMI-related data for training and validation from kaggle.
 - **`assets/`**: Image and other asset files.
 
