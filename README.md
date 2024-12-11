@@ -7,18 +7,18 @@
 
 
 ## 📖 Table Of Content
-- [📚 Developers](#developers)
-- [📂 Directory](#directory)
-- [🏗️ Project Structure](#project-structure)
-- [💻 Installation](#installation)
-- [🖥️ Use the Virtual Environment in VS Code](#use-the-virtual-environment-in-vs-code)
-- [📥 Input and Output Description](#input-and-output-description)
-- [🔄 General Workflow](#general-workflow)
-- [📦 Using Pre-trained Models](#using-pre-trained-models)
-- [🏋️ Train the Models](#train-the-models-optional) (Optional)
-- [📊 Evaluate the Models](#evaluate-the-models)
-- [🔮 Prediction](#prediction)
-- [🔗 Links](#links)
+- [📚 Developers](#📚-developers)
+- [📂 Directory](#📂-directory)
+- [🏗️ Project Structure](#️🏗️-project-structure)
+- [💻 Installation](#💻-installation)
+- [🖥️ Use the Virtual Environment in VS Code](#️🖥️-use-the-virtual-environment-in-vs-code)
+- [📥 Input and Output Description](#📥-input-and-output-description)
+- [🔄 General Workflow](#🔄-general-workflow)
+- [📦 Using Pre-trained Models](#📦-using-pre-trained-models)
+- [🏋️ Train the Models](#🏋️-train-the-models-optional) (Optional)
+- [📊 Evaluate the Models](#📊-evaluate-the-models)
+- [🔮 Prediction](#🔮-prediction)
+- [🔗 Links](#🔗-links)
 
 ## 📂 Directory
 <pre>
