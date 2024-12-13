@@ -1,5 +1,11 @@
 <div align="center">
-  <h1>🤖 Machine Learning Project 🤖</h1>
+  <h1>NYAM 
+  
+  (Not Your Average Menu)
+
+  🤖Machine Learning🤖 
+  
+  Repository </h1>
   <p>Two powerful machine learning models for image classification and BMI prediction, built with TensorFlow!</p>
 </div>
 
